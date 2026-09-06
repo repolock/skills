@@ -1,0 +1,24 @@
+# Target build output
+target/
+build/
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
+
+# Logs and environment
+*.log
+.env
+.DS_Store
